@@ -1,0 +1,5 @@
+
+Toffee_Todd|200|20|Frosty Fizz,Toxic Taffy,Bubblegum Blast,Caramel Comet,Lucky Licorice
+JellyBean_Jane|100|50|Breezy Butterscotch,Lucky Licorice,Fearsome Fudge,Crimson Crystal
+Perc_Rodgers|50|50|Breezy Butterscotch,Lucky Licorice,Fearsome Fudge,Crimson Crystal
+Shaq_Attack|100|100|Caramel Comet,Bubblegum Blast,Fearsome Fudge,Crimson Crystal
